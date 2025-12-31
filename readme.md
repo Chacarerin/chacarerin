@@ -61,12 +61,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chacarerin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chacarerin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chacarerin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chacarerin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Chacarerin&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Chacarerin&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -75,11 +75,11 @@
 
 <div align="center">
 
-[![ML Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=machine_learning_bootcamp&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/machine_learning_bootcamp)
-[![Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=django_projects&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/django_projects)
+[![ML Bootcamp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chacarerin&repo=machine_learning_bootcamp&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/machine_learning_bootcamp)
+[![Django Projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chacarerin&repo=django_projects&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/django_projects)
 
-[![SQL Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=sql_bootcamp&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/sql_bootcamp)
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=python_projects&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/python_projects)
+[![SQL Bootcamp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chacarerin&repo=sql_bootcamp&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/sql_bootcamp)
+[![Python Projects](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Chacarerin&repo=python_projects&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/python_projects)
 
 </div>
 
@@ -111,7 +111,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chacarerin&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-trophies.vercel.app/?username=Chacarerin&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
