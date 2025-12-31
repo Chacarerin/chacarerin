@@ -1,116 +1,128 @@
+<!-- Header -->
+<div align="center">
+  
+  <!-- Banner con gradiente -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Rubén%20Schnettler&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20Civil%20Industrial%20(MBA)%20•%20Docente%20Universitario&descSize=16&descAlignY=55" width="100%"/>
+
+</div>
+
+<!-- Badges de contacto -->
+<p align="center">
+  <a href="https://rubenschnettler.cl"><img src="https://img.shields.io/badge/Portfolio-rubenschnettler.cl-667eea?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rubensch"><img src="https://img.shields.io/badge/LinkedIn-rubensch-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rubenschnettler@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chacarerin&color=667eea&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+> Especialista en **Métodos Cuantitativos**, **Optimización** y **Analítica de Datos**.  
+> Desarrollo soluciones integrando tecnología, datos y docencia universitaria.
+
+📍 Viña del Mar, Chile
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-# Rubén Schnettler
+<!-- Lenguajes -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Ingeniero Civil Industrial (MBA) · Docente Universitario**
+<!-- Frameworks -->
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-*Especialista en Métodos Cuantitativos, Optimización y Analítica de Datos*
+<!-- Bases de datos y herramientas -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rubenschnettler.cl-1a1a2e?style=flat-square)](https://rubenschnettler.cl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rubensch-1a1a2e?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rubensch)
-[![Email](https://img.shields.io/badge/Email-rubenschnettler@gmail.com-1a1a2e?style=flat-square&logo=gmail)](mailto:rubenschnettler@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Viña_del_Mar,_Chile-1a1a2e?style=flat-square)](https://rubenschnettler.cl)
+</div>
+
+<div align="center">
+  <b>Áreas:</b> Machine Learning • Optimización Lineal • Análisis de Datos • POO
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Chacarerin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chacarerin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Chacarerin&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+[![ML Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=machine_learning_bootcamp&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/machine_learning_bootcamp)
+[![Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=django_projects&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/django_projects)
+
+[![SQL Bootcamp](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=sql_bootcamp&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/sql_bootcamp)
+[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=Chacarerin&repo=python_projects&theme=tokyonight&hide_border=true)](https://github.com/Chacarerin/python_projects)
 
 </div>
 
 ---
 
-### Sobre mí
+## 🧠 En qué estoy trabajando
 
-Desarrollo soluciones tecnológicas integrando **programación**, **análisis de datos** y **docencia universitaria**. Me apasiona crear herramientas que transformen datos en decisiones y compartir conocimiento a través de la enseñanza.
-
----
-
-### Tech Stack
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-<br><sub><b>Django</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-<br><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<br><sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-<br><sub><b>CSS3</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-<br><sub><b>Bootstrap</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<br><sub><b>React</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-<br><sub><b>GitHub</b></sub>
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td>🌐</td>
+    <td>Aplicaciones web con <b>Django</b> y <b>PostgreSQL</b></td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td>Plataforma de mentoría educativa</td>
+  </tr>
+  <tr>
+    <td>🤖</td>
+    <td>Modelos de <b>Machine Learning</b> con enfoque ético</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td>Innovación en docencia universitaria</td>
+  </tr>
 </table>
 
-**Áreas de especialización:** Machine Learning · Optimización Lineal · Análisis de Datos · POO
-
 ---
 
-### GitHub Stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Chacarerin&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&icon_color=1a1a2e&text_color=333333&include_all_commits=true" alt="GitHub Stats"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chacarerin&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=333333&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chacarerin&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-### Proyectos Destacados
-
-| Repositorio | Descripción |
-|:---|:---|
-| [**machine_learning_bootcamp**](https://github.com/Chacarerin/machine_learning_bootcamp) | Ejercicios y prácticas de Machine Learning |
-| [**django_projects**](https://github.com/Chacarerin/django_projects) | Proyectos variados con Django |
-| [**optimizaci-n_lineal**](https://github.com/Chacarerin/optimizaci-n_lineal) | Modelos de optimización lineal |
-| [**sql_bootcamp**](https://github.com/Chacarerin/sql_bootcamp) | Ejercicios de SQL y PostgreSQL |
-| [**python_projects**](https://github.com/Chacarerin/python_projects) | Proyectos varios en Python |
-| [**poo_bootcamp**](https://github.com/Chacarerin/poo_bootcamp) | Programación Orientada a Objetos |
-
----
-
-### En qué estoy trabajando
-
-- 🌐 Aplicaciones web con **Django** y **PostgreSQL**
-- 🎓 Plataforma de mentoría educativa
-- 🤖 Modelos de **Machine Learning** con enfoque ético
-- � Innovación en docencia universitaria
-
----
-
 <div align="center">
-
-**rubenschnettler@gmail.com** · [rubenschnettler.cl](https://rubenschnettler.cl)
-
----
-
-*"La tecnología es significativa cuando amplifica la comprensión humana."*
+  
+  <!-- Footer con gradiente -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+  
+  <br/>
+  
+  *"La tecnología es significativa cuando amplifica la comprensión humana."*
+  
+  **Made with ❤️ in Chile 🇨🇱**
 
 </div>
